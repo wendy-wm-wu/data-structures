@@ -26,7 +26,7 @@ treeMethods.contains = function(target) {
 	//if node matches target
 	//return true
 	//else, return false 
-	var node = Tree(target);
+	// var node = Tree(target);
 	var flag = false;
 
 	function recurse(node) {
